@@ -6,3 +6,7 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today! Learn Mor
 little cyber security learing can be boost ........
 
 #100DaysOfCode  #mern #MachineLearning
+
+# #projecteuler100 challenge problem 1 solved::)
+
+
